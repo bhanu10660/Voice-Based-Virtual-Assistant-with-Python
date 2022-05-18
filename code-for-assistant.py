@@ -10,7 +10,7 @@ from selenium import webdriver
 from getpass import getpass
 
 #print("Initializing OSIS")
-MASTER = "Vivek"
+MASTER = "Bhanu"
 
 engine = pyttsx3.init() # here we initialize pyttsx3 in a variable called engine
 voices = engine.getProperty('voices') # here we assigned engine a voice 
